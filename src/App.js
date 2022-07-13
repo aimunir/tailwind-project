@@ -1,12 +1,14 @@
-import React from "react";
+import React from 'react'
+import Navbar from './Components/Navbar'
 
 const App = () => {
   return (
-    <div className="app">
-      <div className="font-sans text-5xl text-yellow-700">Tailwind new project</div>
-       
+    <div>
+      <>
+      <Navbar/>
+      </>
     </div>
-  );
-};
+  )
+}
 
-export default App;
+export default App
