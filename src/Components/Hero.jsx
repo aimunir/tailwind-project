@@ -1,8 +1,23 @@
 import React from 'react'
+import {
+  CloudUploadIcon,
+  DatabaseIcon,
+  PaperAirplaneIcon,
+  ServerIcon,
+} from "@heroicons/react/solid";
+
+import bgImg from './../assests/cyber-bg.png'
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <div className='w-full h-full'>
+      
+
+
+
+
+
+    </div>
   )
 }
 
