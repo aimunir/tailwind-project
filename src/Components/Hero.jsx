@@ -28,7 +28,7 @@ const Hero = () => {
           <img className="w-[80%] ml-[3%]" src={bgImg} alt="/" />
         </div>
         <div
-          className="capitalize absolute flex flex-col py-8 md:min-w-{760px} bottom-[1%] mx-1 
+          className="capitalize absolute flex flex-col py-3 px-5 md:min-w-{760px} bottom-[50px] mx-1 
        md:left-1/2 transform md:-translate-x-1/2 bg-zinc-200 border border-slate-300 rounded-xl  text-center shadow-xl sm:ml-auto"
         >
           <p className="font-bold  text-slate-600">data services</p>

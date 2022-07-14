@@ -2,12 +2,11 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="w-full my-32 ">
+    <div className="w-full my-32">
       <div className='max-w-[1240px] mx-auto'>
         {/* about header */}
         <div className='text-center'>
-          <h2 className="capitalize text-5xl font-sans font-bold  ">
-            {" "}
+          <h2 className="capitalize text-5xl font-sans font-bold">
             trusted by developers all over the world
           </h2>
           <p className='text-3xl py-6'>
