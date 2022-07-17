@@ -4,7 +4,7 @@ import { CheckIcon, ArrowRightIcon } from "@heroicons/react/solid";
 const Pricing = () => {
   return (
     <div className="w-full  my-30">
-      <div className="w-full h-[550px] absolute bg-indigo-800 mix-blend-overlay"></div>
+      <div className="w-full h-[550px] absolute bg-slate-900 mix-blend-overlay"></div>
 
       <div className="relative">
         <div className="text-center">
