@@ -5,7 +5,7 @@ import SupportImg from "../assests/support.jpg";
 
 const Support = () => {
   return (
-    <div className="w-full h-screen mt-24">
+    <div className="w-full  my-20">
       <div className="w-full h-[700px] bg-gray-900/90 absolute">
         <img
           className="w-full h-full object-cover mix-blend-overlay "
@@ -51,8 +51,8 @@ const Support = () => {
 
           <div className="bg-white rounded-xl shadow-2xl ">
             <div className="p-8">
-              <PhoneIcon className="w-16 p-2 rounded-lg mt-[-4rem] bg-indigo-600 text-white" />
-              <h3 className="text-2xl text-gray-600 mt-5">Sales</h3>
+              <SupportIcon className="w-16 p-2 rounded-lg mt-[-4rem] bg-indigo-600 text-white" />
+              <h3 className="text-2xl text-gray-600 mt-5">Technical Support</h3>
               <p className="text-gray-600">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
                 possimus saepe nemo dolore rem obcaecati, nulla dignissimos in,
@@ -69,8 +69,8 @@ const Support = () => {
 
           <div className="bg-white rounded-xl shadow-2xl ">
             <div className="p-8">
-              <PhoneIcon className="w-16 p-2 rounded-lg mt-[-4rem] bg-indigo-600 text-white" />
-              <h3 className="text-2xl text-gray-600 mt-5">Sales</h3>
+              <ChipIcon className="w-16 p-2 rounded-lg mt-[-4rem] bg-indigo-600 text-white" />
+              <h3 className="text-2xl text-gray-600 mt-5">Media Inquiries</h3>
               <p className="text-gray-600">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
                 possimus saepe nemo dolore rem obcaecati, nulla dignissimos in,
